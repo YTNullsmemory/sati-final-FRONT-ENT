@@ -1,0 +1,21 @@
+div.header {
+    background-color: yellow;
+    min-width: 600px;
+    max-width: 4000px;
+    height: 100px;
+}
+div.left_col {
+    background-color: orange;
+    border-right: 2px dashed red;
+    width: 198px;
+    height: 400px;
+    float: left;
+}
+div.right_col {
+    background-color: orange;
+    height: 400px;
+    min-width: 380px;
+    min-width: 3800px;
+    margin-left: 200px;
+    margin-top: -20px;
+}

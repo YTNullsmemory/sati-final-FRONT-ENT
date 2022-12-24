@@ -1,0 +1,53 @@
+#first, #second {
+    background: yellow;
+}
+#third, #fourth {
+    background: orange;
+}
+#first, #second, #third, #fourth {
+    border: 1px solid red;
+    margin: 10px;
+    padding: 10px 5px;
+}
+#first {
+    background: yellow;
+    width: 300px;
+    height: 100px;
+}
+#second {
+    background: yellow;
+    width: 300px;
+}
+#third, #fourth {
+    background: orange;
+    width: 300px;
+    height: 100px;
+}
+p {
+    border: 2px solid orange;
+    padding: 10px;
+    margin: 50px;
+    width: 100px;
+    width: 100px;
+    height: 50px;
+}
+#пр1, #пр2, #пр3, #пр4 {
+    border: 1px solid red;
+    margin: 10px;
+    padding: 10px 5px;
+}
+#box {
+    border-bottom-style: double;
+    border-bottom-color: red;
+    border-left-style: solid;
+    border-left-width: 2px;
+    border-left-color: blue;
+    border-right-style: solid;
+    border-right-width: 2px;
+    border-right-color: yellow;
+    border-top-style: dotted;
+    border-top-color: green;
+}
+body {
+    background-color: rgb(228, 238, 255);
+}
